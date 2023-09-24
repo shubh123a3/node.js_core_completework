@@ -1,0 +1,36 @@
+20230915	17:34:21	1f4623dd-c6c4-42df-b08f-982a139c93e5	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:34:44	1054bb5a-3ce7-48f9-84ca-8cd32ed67246	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:34:48	961002f6-b784-4777-bef4-578fc9423a17	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:37:47	2ffac6a9-5560-4479-b0a4-0c43e5802968	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:38:02	202d1e14-5b62-424e-a321-00dedfcc50dd	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:42:30	55caceb5-29db-4de0-b2f7-8950eff7ee6c	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:58:16	bf7587b1-7344-45c5-9ac7-daa0a7151531	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	17:58:16	d90fa052-4c1c-4042-b828-cb4eee592598	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\subdir\index.html'
+20230915	18:19:42	1a522e63-ffbc-49e1-9cf6-95a44427b140	ReferenceError:path is not defined
+20230915	18:19:45	6c1c1237-f53d-4f93-a4fd-3292a4b1ec63	ReferenceError:path is not defined
+20230915	18:52:02	3ebaa7af-75ad-4d01-9015-58cc151a9d37	ReferenceError:path is not defined
+20230916	21:06:13	7baed401-bc81-4072-ab9f-3e5c42b560cb	ReferenceError:path is not defined
+20230916	21:06:16	fd7c097f-4aec-4e41-a93f-fa5a9d7226e8	ReferenceError:path is not defined
+20230916	21:07:48	c5416c93-c247-499b-890f-d74ad8f7ec7c	ReferenceError:path is not defined
+20230916	21:07:49	56a08b64-d7a4-4de0-a43f-d5e661530b7c	ReferenceError:path is not defined
+20230916	21:07:50	eb6182b3-d451-4089-bbd6-4c6239d23088	ReferenceError:path is not defined
+20230916	21:09:59	88a732e6-1986-4769-a3bb-2686ee5773ef	ReferenceError:path is not defined
+20230916	21:10:00	3ea65cfe-8200-43d7-a927-0c3487b5a6f2	ReferenceError:path is not defined
+20230916	21:10:03	8f9d6151-05a8-417f-a38a-b4f8e6919bf7	ReferenceError:path is not defined
+20230916	21:10:04	49167f16-3181-4ad7-8512-298da6df6ba0	ReferenceError:path is not defined
+20230916	21:10:04	f73231e1-a5df-4ed6-a324-a0d3175fc66d	ReferenceError:path is not defined
+20230916	21:10:04	384618af-38ca-42da-891b-f1f731b1b1c5	ReferenceError:path is not defined
+20230916	21:10:27	e2ca0055-d96f-427e-b73a-5e5edfb3939f	ReferenceError:path is not defined
+20230916	21:43:26	79affc88-9061-4a16-ad90-76e531ff60d2	ReferenceError:path is not defined
+20230916	21:43:27	6f850ff1-9220-45f9-9b75-9d6f4d1591fb	ReferenceError:path is not defined
+20230916	21:43:31	e4d60b38-3844-4f90-8af9-f3486cc143ea	ReferenceError:path is not defined
+20230916	21:43:36	a4311462-0140-47ef-a28a-54553f27f1ae	ReferenceError:path is not defined
+20230916	22:24:23	f9eda45f-7a27-4b53-9f9b-22f37ca61d64	ReferenceError:path is not defined
+20230917	10:32:28	ea28d337-c7c2-4a77-88eb-3b24af1836d1	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:29	88c0b822-c880-49ab-a9b2-221396056b75	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:29	c9821fa0-cebb-4434-87dc-cbbd4cf5ce40	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:29	f0459131-e2c0-4791-b294-f559fde4ec6c	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:29	af9493fa-a6e5-4156-b690-cd8e8986fed8	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:42	ff08a01a-9e3e-49bb-ab6b-7adca05877f4	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:53	825c9b9a-3504-4806-914a-673838fc5573	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
+20230917	10:32:53	aac7be0d-54c5-4347-85eb-b635ea2defaf	Error:ENOENT: no such file or directory, stat 'f:\Node.js_core\views\404.html'
